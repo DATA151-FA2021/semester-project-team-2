@@ -2,3 +2,7 @@
 # DATA 151 Project
 
 Add descriptive elements here
+Name: Brandon Cook
+Major: Statistics
+Year in School: Junior
+Key Skills: Statistics
