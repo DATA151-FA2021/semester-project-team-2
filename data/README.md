@@ -1,6 +1,6 @@
 # Project Data
 
-Use in reference for details on each data set
+Use as a reference for details on each data set
 
 Cleaned_Weightless_Numerical_Data.csv: Dummy variables for yes/no variables as well as categorical variables with additional cleaning done in R to repalce commas that acted as decimal points and an unreasonable negative value was changed to zero.
 
